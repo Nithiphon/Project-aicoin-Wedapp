@@ -1,5 +1,5 @@
+ultralytics==8.1.0
+opencv-python-headless
+Pillow
 gradio
-ultralytics
-opencv-python
-pillow
 numpy
